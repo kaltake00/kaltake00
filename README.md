@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Elvedin and I'm a web software developer, from BiH 🇧🇦</p>
+<p align="left">My name is Elvedin and I'm a web developer, from BiH 🇧🇦</p>
 
 ###
 
