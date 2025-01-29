@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Elvedin and I'm a web developer, from BiH 🇧🇦</p>
+<p align="left">My name is Elvedin and I'm a Software Engineer, from Srajevo, BiH 🇧🇦</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning MERN stack<br>🎯 Goals: Fullstack web developer<br>🎲 Fun fact: cars lover material artist and gamer.</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Reract Native<br>🎯 Goals: Fullstack & Mobile developerr<br>🎲 Fun fact: cars lover material artist and gamer.</p>
 
 ###
 
@@ -26,8 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="52" alt="laravel logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
